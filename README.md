@@ -8,6 +8,8 @@ To enable pixel shaders in Window Terminal, please follow this [instructions](ht
 
 # Shaders
 
-## Glowing tunnel - tunnel.hlsl
+### Glowing tunnel - tunnel.hlsl
 
-<img src="https://i.imgur.com/osBXwJK.gif" alt="Tunnel" display="block" margin-left="auto" margin-right="auto" max-width="600px" ></img>
+<p align="center">
+<img src="https://i.imgur.com/osBXwJK.gif" alt="Tunnel"></img>
+</p>
